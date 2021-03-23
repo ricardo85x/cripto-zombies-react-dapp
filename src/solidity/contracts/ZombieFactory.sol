@@ -25,7 +25,7 @@ contract ZombieFactory is Ownable {
   Zombie[] public zombies;
 
   mapping (uint => address) public zombieToOwner;
-  mapping (address => uint) ownerZombieCount;
+  mapping (address => uint) public ownerZombieCount;
 
   function _createZombie(string memory _name, uint _dna) internal {
 
