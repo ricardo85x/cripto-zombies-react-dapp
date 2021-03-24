@@ -7,23 +7,23 @@ import { abi as  ZombieFactoryABI } from "./build/contracts/ZombieFactory";
 export const ZombieContracts = {
 
     "ZombieOwnership": {
-        "address": "0xF72b5E4D0A71E637A0C58C4e815b99cA17b2edC0",
+        "address": "0x953B2265Bc249E2Ec1e5ED489048305f5998862c",
         "abi": ZombieOwnershipABI
     },
-    "ZombieAttack": {
-        "address": "0xBa66DdD6fCD6B2871276B99641a02E68419BA52c",
-        "abi": ZombieAttackABI
-    },
-    "ZombieHelper": {
-        "address": "0x755D04743493520594b78c601bA2a529022Ec330",
-        "abi": ZombieHelperABI
-    },
-    "ZombieFeeding": {
-        "address": "0x68F6EC1735121F22717d53003Ae901856c6c7e08",
-        "abi": ZombieFeedingABI
-    },
+    // "ZombieAttack": {
+    //     "address": "0x0Eb28a324bEcF0Ab713Ecba3bb5aE709235C0FA2",
+    //     "abi": ZombieAttackABI
+    // },
+    // "ZombieHelper": {
+    //     "address": "0xE0F6bDfa1dF3F4B687CCF66FBeE886E0A776C2A5",
+    //     "abi": ZombieHelperABI
+    // },
+    // "ZombieFeeding": {
+    //     "address": "0xE9B2B998669D6FCd327346fC11D821314B561F47",
+    //     "abi": ZombieFeedingABI
+    // },
     "ZombieFactory": {
-        "address": "0xB02Fb189f4112be6bDA1A24a82FAf29e6ee7dC2b",
+        "address": "0x23eaC7eB33B602A9A8C28CF9618c8CBb822781D5",
         "abi": ZombieFactoryABI
     }
 }
