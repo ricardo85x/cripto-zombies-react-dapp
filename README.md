@@ -2,7 +2,7 @@
 
 ### **React Zombies with ReactJS dApp on ETH network**
 
-Following the [cryptozombies](https://cryptozombies.io/) course and refactoring the code to **reactJS** and a **newer** **solidty** version.
+Following the [cryptozombies](https://cryptozombies.io/) course and refactoring the code to **reactJS** and a **newer** **solidity** version.
 
 ### **Status**: Lesson 6 / Chapter 6 -
 
